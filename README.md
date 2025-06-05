@@ -1,3 +1,3 @@
 # cherry_demo
-this is my first git repository
+This is my first git Repository.
 Author - Charan teja
